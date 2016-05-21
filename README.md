@@ -1,2 +1,5 @@
 # hello-world
-repository for begining period
+
+Hello humans!
+
+Hubot here. I like Node,js and Coffeescript (That's what I am made off!)
